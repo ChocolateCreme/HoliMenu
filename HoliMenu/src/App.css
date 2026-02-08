@@ -29,14 +29,33 @@
   font-family: 'Courier New', Courier, monospace;
   background-color: lightcoral;
   color: black;
-  text-align: center;
   width: 250px;
   height: 400px;
   margin: 20px;
-  padding: 5px;
+  padding: 10px;
+  overflow: auto;
+}
+
+.FoodCard h3{
+  text-align: center;
+}
+
+.FoodCard p{
+  display: inline-block;
+  font-size: 15px;
 }
 
 .Coral {
   display: flex;
   gap: 10px;
+}
+
+.food {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
 }
