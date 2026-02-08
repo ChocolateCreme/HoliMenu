@@ -1,0 +1,1 @@
+In this project, I'm rebuilding the in-store menu for Holi Restaurant in Bedford, Massachusetts. The link to the original site is https://www.holibedford.com/instore-menu/. I used npm run dev to run my project locally.
