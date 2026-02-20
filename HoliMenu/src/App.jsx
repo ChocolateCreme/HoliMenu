@@ -22,7 +22,6 @@ import Biryani from "./components/Biryani";
 import { useState } from "react";
 import Navbar from "./components/Navbar";
 
-
 function App() {
   const categories = [
     { id: 1, title: "Tandoor: ", description: "Marinated with yogurt and chef's choice of spices baked in tandoor, served on a bed of onion and pepper, tikka masala sauce and a plain naan."},
