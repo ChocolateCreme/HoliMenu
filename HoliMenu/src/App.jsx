@@ -20,7 +20,6 @@ import ChefSpecial from "./components/ChefSpecial";
 import IndoChinese from "./components/IndoChinese";
 import Biryani from "./components/Biryani";
 import { useState } from "react";
-import Navbar from "./components/Navbar";
 
 function App() {
   const categories = [
@@ -96,9 +95,6 @@ function App() {
           )}
       </div>
     </div>
-      <div className="Navigation">
-        <Navbar/>
-      </div>
     </>
   );
 };
