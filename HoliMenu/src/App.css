@@ -5,11 +5,12 @@
   text-align: center;
   margin: 20px;
   font-size: 20px;
-  width: 1475px;
+  width: 1450px;
+  margin-left: 40px;
 }
 
 .Header h1 {
-  width: 1475px;
+  width: 1450px;
 }
 
 .About {
@@ -20,11 +21,12 @@
   margin: 20px;
   padding: 10px;
   font-size: 15px;
-  width: 1475px;
+  width: 1450px;
+  margin-left: 25px;
 }
 
 .About h2, p{
-  width: 1475px;
+  width: 1450px;
 }
 
 .FoodCard {
@@ -51,6 +53,9 @@
 .Coral {
   display: flex;
   gap: 10px;
+  width: 1450px;
+  flex-wrap: wrap;
+  margin-left: 125px;
 }
 
 .food {
@@ -67,8 +72,9 @@
   background-color: limegreen;
   margin: 20px;
   padding: 10px;
-  width: 1475px;
+  width: 1450px;
   color: black;
+  margin-left: 25px;
 }
 
 .search {
@@ -82,5 +88,5 @@
 
 body {
   background-image: url("./pictures/HoliColors.png");
-  width: 5800px;
+  width: 1550px;
 }
