@@ -74,7 +74,7 @@ function App() {
         <Biryani/>
       </div>
       <div className="filter">
-        <h4>Not sure where to start or what to order? Don't worry! Search up any food category below to learn more!</h4>
+        <h4>Not sure where to start / what to order? Don't worry! Search up any food category below to learn more!</h4>
         <input
           type="text"
           placeholder="Search a Category..."
